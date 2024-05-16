@@ -2,4 +2,5 @@
 
 import webbrowser
 
-webbrowser.open('http://plus.cyberessentials.live') # Launch browser
+webbrowser.open('http://plus.cyberessentials.live')
+input("Press Enter to continue...")
